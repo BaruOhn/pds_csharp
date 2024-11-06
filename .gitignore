@@ -1,61 +1,22 @@
-
-# Ignorování dočasných souborů Visual Studia, výsledků kompilace a
-# automaticky generovaných souborů pro Mono
-
-# Uživatelsky specifické soubory
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Uživatelsky specifické soubory (Mono Auto Generated)
-mono_crash.*
-
-# Výsledky kompilace
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-
-# Automaticky generované složky Visual Studio 2019
-.vscode/
-
-# Automaticky generované projektové soubory
-*.csproj.user
-
-# Soubory pro Rider a VS Code
-.idea/
-.vscode/
-
-# Dočasné soubory pro Windows (cache obrázků)
-Thumbs.db
-ehthumbs.db
-
-# Specifické složky k ignorování
+# Ignore build directories
 bin/
 obj/
 
-# Ignorování souborů a složek spojených s C# projektem
+# Visual Studio specific files and folders
+.vs/
+*.suo
+*.user
+*.userosscache
+*.rsuser
+
+# Rider and VS Code directories
+.idea/
+.vscode/
+
+# Ignore compiled binaries
 *.exe
 *.dll
 *.pdb
 
-# Ostatní automaticky generované soubory nebo IDE specifické soubory
-*.log
-*.tmp
-*.temp
-*.lock.json
-npm-debug.log
-yarn-debug.log
-yarn-error.log
-.idea/
-
-# Skryté soubory (např. .DS_Store pro Mac)
+# MacOS specific files
 .DS_Store
-
