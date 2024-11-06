@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\adam_rysak\\threading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\adam_rysak\\threading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\yanni\\masterprimitives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\yanni\\masterprimitives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\yanni\\monitorcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\yanni\\monitorcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\yanni\\mutexcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\yanni\\mutexcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\yanni\\readerwriterlockslimcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\yanni\\readerwriterlockslimcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\yanni\\semaphorecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\yanni\\semaphorecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\los\\plinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\los\\plinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|c:\\users\\miral\\source\\repos\\pds - prezentace\\pds - prezentace\\los\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D7BA93-A0A9-4F96-81D7-BFF725D78D92}|PDS - prezentace\\PDS - prezentace.csproj|solutionrelative:pds - prezentace\\los\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Los\\MyTask.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Los\\MyTask.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Los\\MyTask.cs",
+              "RelativeToolTip": "PDS - prezentace\\Los\\MyTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:36:13.075Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:714799925:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReaderWriterLockSlimCS.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\ReaderWriterLockSlimCS.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Yanni\\ReaderWriterLockSlimCS.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\ReaderWriterLockSlimCS.cs",
+              "RelativeToolTip": "PDS - prezentace\\Yanni\\ReaderWriterLockSlimCS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:04:13.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Program.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Program.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Program.cs",
+              "RelativeToolTip": "PDS - prezentace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:52:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MutexCS.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\MutexCS.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Yanni\\MutexCS.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\MutexCS.cs",
+              "RelativeToolTip": "PDS - prezentace\\Yanni\\MutexCS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:04:14.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonitorCS.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\MonitorCS.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Yanni\\MonitorCS.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\MonitorCS.cs",
+              "RelativeToolTip": "PDS - prezentace\\Yanni\\MonitorCS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:04:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Threading.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Adam_rysak\\Threading.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Adam_rysak\\Threading.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Adam_rysak\\Threading.cs",
+              "RelativeToolTip": "PDS - prezentace\\Adam_rysak\\Threading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:23:35.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SemaphoreCS.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\SemaphoreCS.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Yanni\\SemaphoreCS.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\SemaphoreCS.cs",
+              "RelativeToolTip": "PDS - prezentace\\Yanni\\SemaphoreCS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:04:11.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterPrimitives.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\MasterPrimitives.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Yanni\\MasterPrimitives.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Yanni\\MasterPrimitives.cs",
+              "RelativeToolTip": "PDS - prezentace\\Yanni\\MasterPrimitives.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:01:40.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Plinq.cs",
+              "DocumentMoniker": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Los\\Plinq.cs",
+              "RelativeDocumentMoniker": "PDS - prezentace\\Los\\Plinq.cs",
+              "ToolTip": "C:\\Users\\miral\\source\\repos\\PDS - prezentace\\PDS - prezentace\\Los\\Plinq.cs",
+              "RelativeToolTip": "PDS - prezentace\\Los\\Plinq.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAzwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:45:43.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
